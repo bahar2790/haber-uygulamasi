@@ -278,12 +278,12 @@ st.markdown("<h1>📰 Kişisel Haber Akışınız</h1>", unsafe_allow_html=True)
 
 st.markdown("""
     <div style='background-color: #f8f9fa; padding: 1rem; border-radius: 8px; margin-bottom: 2rem;'>
-        <h4>⚠️ Portfolio Project Disclaimer</h4>
-        <p>This is a portfolio project created for demonstration purposes only. 
-        It showcases full-stack development capabilities using Streamlit and Python.</p>
-        <p>All news content is sourced from publicly available RSS feeds and belongs to their respective owners. 
-        This application is not intended for commercial use.</p>
-        <p>For more information about this portfolio project, please visit the GitHub repository.</p>
+        <h4>⚠️ Portfolyo Projesi Bilgilendirmesi</h4>
+        <p>Bu uygulama, sadece portfolyo gösterimi amacıyla oluşturulmuş bir projedir. 
+        Streamlit ve Python kullanılarak geliştirilen full-stack yeteneklerini sergilemektedir.</p>
+        <p>Tüm haber içerikleri, herkese açık RSS beslemelerinden alınmaktadır ve ilgili haber kaynaklarının 
+        mülkiyetindedir. Bu uygulama ticari amaçlı kullanım için tasarlanmamıştır.</p>
+        <p>Bu portfolyo projesi hakkında daha fazla bilgi için GitHub repository'sini ziyaret edebilirsiniz.</p>
     </div>
 """, unsafe_allow_html=True)
 
