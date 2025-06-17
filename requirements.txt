@@ -1,5 +1,3 @@
 streamlit>=1.45.0
 feedparser>=6.0.10
 python-dateutil>=2.8.2
-
-
